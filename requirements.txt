@@ -1,0 +1,10 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+imbalanced-learn
+
+
