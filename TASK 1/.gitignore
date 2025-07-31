@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# C extensions
+*.c
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data files
+*.tsv
+*.data
+*.dat
+*.zip
+*.gz
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pb
+*.onnx
+*.sav
+
+# Logs
+*.log
+logs/
+
+# Outputs
+*.out
+*.tmp
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Mac OS
+.DS_Store
+
+# Colab
+*.ipynb_checkpoints/
+
+# Jupyter runtime
+~$*.ipynb
